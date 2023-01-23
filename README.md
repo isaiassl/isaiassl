@@ -1,4 +1,5 @@
 ## Olá eu sou o Isaias Soares Leite, amante de programação e tecnologia!
+<i>Pai de três filhos (um menino e duas meninas), profissional dedicado e compromissado, prezo muito pelo trabalho em equipe.</i>
 
 Estudante frequente em programação e apaixonado por back-end, atualmente cursando Banco de Dados na Faculdade Estácio. 
 
@@ -6,10 +7,8 @@ Estudante frequente em programação e apaixonado por back-end, atualmente cursa
 <i>- Faculdade de Tecnologia Carlos Drummond de Andrade - Certificado de Analista de Projetos de Sistemas em TI</i><br>
 <i>- Faculdade de Tecnologia Carlos Drummond de Andrade - Certificado de Analista de Suporte Técnico</i>
 
-Conhecimentos em Python (pyautogui · Selenium · WebDriver Selenium · Pandas, PyCharm · Pytest · Jupyter ) · Banco de dados Oracle (Oracle SQL Developer · PL/SQL · Procedures · Functions · Triggers e Tunning e Performance, insert, update, select) - PhpMyAdmin · Workbench · SQL · MySQL · JavaScript · HTML · HTML5 · CorelDraw · PhotoShop · Silhouette Studio · Windows e Linux. Facilidade em manusear e aprender novas ferramentas.
-
-Pai de três filhos (um menino e duas meninas), profissional dedicado e compromissado, prezo muito pelo trabalho em equipe.
-
+<hr>
+<b>Conhecimentos em:</b> <u>Python</u> (pyautogui · Selenium · WebDriver Selenium · Pandas, PyCharm · Pytest · Jupyter ) · Banco de dados Oracle (Oracle SQL Developer · PL/SQL · Procedures · Functions · Triggers e Tunning e Performance, insert, update, select) - PhpMyAdmin · Workbench · SQL · MySQL · JavaScript · HTML · HTML5 · CorelDraw · PhotoShop · Silhouette Studio · Windows e Linux. Facilidade em manusear e aprender novas ferramentas.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Isaias-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
