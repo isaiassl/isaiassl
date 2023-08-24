@@ -6,9 +6,24 @@ Estudante frequente em programação e apaixonado por back-end, atualmente cursa
 <b>Certificado Acadêmico:</b><br>
 <i>- Faculdade de Tecnologia Carlos Drummond de Andrade - Certificado de Analista de Projetos de Sistemas em TI</i><br>
 <i>- Faculdade de Tecnologia Carlos Drummond de Andrade - Certificado de Analista de Suporte Técnico</i>
+<i>- Faculdade Estácio - Banco de Dados (Cursando...)</i>
 <br>
 <hr>
 <b>Conhecimentos em:</b> <u>Python</u> (pyautogui · Selenium · WebDriver Selenium · Pandas, PyCharm · Pytest · Jupyter ) · Banco de dados Oracle (Oracle SQL Developer · PL/SQL · Procedures · Functions · Triggers e Tunning e Performance, insert, update, select) - PhpMyAdmin · Workbench · SQL · MySQL · JavaScript · HTML · HTML5 · CorelDraw · PhotoShop · Silhouette Studio · Windows e Linux. Facilidade em manusear e aprender novas ferramentas.
+<br>
+
+## Sites desenvolvidos
+<a href="https://www.osladvocacia.com.br" target="_blank"><img align="center" alt="Feito" height="15" width="15" src="https://cdn-icons-png.flaticon.com/128/1280/1280891.png"> OSL Advocacia - www.osladvocacia.com.br</a>
+<br>
+<a href="https://www.phimodasecia.com.br" target="_blank"><img align="center" alt="Feito" height="15" width="15" src="https://cdn-icons-png.flaticon.com/128/1280/1280891.png"> PHI Modas e Cia - www.phimodasecia.com.br</a>
+<br>
+<a href="https://www.espacoeducacionalabc.com.br" target="_blank"><img align="center" alt="Feito" height="15" width="15" src="https://cdn-icons-png.flaticon.com/128/1280/1280891.png"> Espaço Educacional ABC - www.espacoeducacionalabc.com.br</a>
+
+## Trabalho Atual
+<b><a href="https://www.linkedin.com/in/isaiassl/" target="_blank">Análista Desenvolvedor PL/SQL</a></b></br> 
+<i><b>na <a href="http://www.pasqualisolution.com.br/" target="_blank">Pasquali Solution</a></b> · Tempo integral</i></br>
+<b>desde: fev de 2023 - até o momento</b> </br>
+<b>São Paulo, Brasil · Híbrida</b></br>
 <br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Isaias-Oracle" height="90" width="60" src="https://img.icons8.com/color/512/oracle-logo.png">
